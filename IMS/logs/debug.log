@@ -1,0 +1,303 @@
+INFO 2024-07-17 23:05:28,693 autoreload Watching for file changes with StatReloader
+INFO 2024-07-17 23:05:42,875 views Product list retrieved successfully.
+INFO 2024-07-17 23:05:42,943 basehttp "GET /products/ HTTP/1.1" 200 9463
+INFO 2024-07-17 23:05:45,766 views Product list retrieved successfully.
+INFO 2024-07-17 23:05:45,791 basehttp "GET /products/?page=2 HTTP/1.1" 200 7554
+INFO 2024-07-17 23:05:55,785 basehttp "GET /admin/stocks/products/d4b840b2-01a5-4e11-9ab1-b243d71225bc/change/?_to_field=id HTTP/1.1" 200 16010
+INFO 2024-07-17 23:05:55,821 basehttp "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO 2024-07-17 23:05:55,832 basehttp "GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO 2024-07-17 23:05:55,835 basehttp "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO 2024-07-17 23:05:55,843 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 304 0
+INFO 2024-07-17 23:05:55,846 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO 2024-07-17 23:05:55,848 basehttp "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO 2024-07-17 23:05:55,848 basehttp "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO 2024-07-17 23:05:55,864 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:05:55,864 basehttp "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO 2024-07-17 23:05:56,070 basehttp "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO 2024-07-17 23:05:56,070 basehttp "GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO 2024-07-17 23:05:58,857 basehttp "GET /admin/stocks/subvariant/ HTTP/1.1" 200 12595
+INFO 2024-07-17 23:05:58,881 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:05:58,919 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO 2024-07-17 23:12:01,688 autoreload Watching for file changes with StatReloader
+WARNING 2024-07-17 23:12:06,797 log Bad Request: /products/create/
+WARNING 2024-07-17 23:12:06,797 basehttp "POST /products/create/ HTTP/1.1" 400 83
+WARNING 2024-07-17 23:13:39,157 log Bad Request: /products/create/
+WARNING 2024-07-17 23:13:39,157 basehttp "POST /products/create/ HTTP/1.1" 400 77
+WARNING 2024-07-17 23:14:32,860 log Bad Request: /products/create/
+WARNING 2024-07-17 23:14:32,860 basehttp "POST /products/create/ HTTP/1.1" 400 77
+INFO 2024-07-17 23:15:59,252 basehttp "GET /admin/stocks/products/ HTTP/1.1" 200 10426
+INFO 2024-07-17 23:15:59,326 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:17:46,966 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\models.py changed, reloading.
+INFO 2024-07-17 23:17:48,145 autoreload Watching for file changes with StatReloader
+INFO 2024-07-17 23:17:54,928 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\models.py changed, reloading.
+INFO 2024-07-17 23:17:56,210 autoreload Watching for file changes with StatReloader
+INFO 2024-07-17 23:17:59,770 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\models.py changed, reloading.
+INFO 2024-07-17 23:18:00,716 autoreload Watching for file changes with StatReloader
+WARNING 2024-07-17 23:20:30,376 views Invalid product data.
+WARNING 2024-07-17 23:20:30,382 log Bad Request: /products/create/
+WARNING 2024-07-17 23:20:30,382 basehttp "POST /products/create/ HTTP/1.1" 400 92
+INFO 2024-07-17 23:22:22,125 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\IMS\settings.py changed, reloading.
+INFO 2024-07-17 23:25:22,243 autoreload Watching for file changes with StatReloader
+INFO 2024-07-17 23:25:25,190 basehttp "GET /admin/stocks/products/ HTTP/1.1" 200 10426
+INFO 2024-07-17 23:25:25,206 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:25:29,111 basehttp "GET /admin/stocks/products/ HTTP/1.1" 200 10426
+INFO 2024-07-17 23:25:29,129 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:25:33,535 basehttp "GET /admin/stocks/subvariant/ HTTP/1.1" 200 12595
+INFO 2024-07-17 23:25:33,567 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:25:37,930 basehttp "GET /admin/stocks/variant/ HTTP/1.1" 200 11456
+INFO 2024-07-17 23:25:37,954 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:25:56,145 basehttp "GET /admin/stocks/variant/21/change/ HTTP/1.1" 200 11099
+INFO 2024-07-17 23:25:56,178 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:25:58,821 basehttp "GET /admin/stocks/products/ae77244f-e5ac-40eb-a888-3fbfc697a114/change/?_to_field=id HTTP/1.1" 200 16028
+INFO 2024-07-17 23:25:58,846 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:26:02,702 basehttp "GET /admin/stocks/variant/21/change/ HTTP/1.1" 200 11099
+INFO 2024-07-17 23:26:03,664 basehttp "GET /admin/stocks/variant/ HTTP/1.1" 200 11456
+INFO 2024-07-17 23:26:13,688 basehttp "GET /admin/stocks/variant/16/change/ HTTP/1.1" 200 11106
+INFO 2024-07-17 23:26:13,696 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:26:15,657 basehttp "GET /admin/stocks/products/a4523df8-956f-4771-8f2f-8f6a263f3a40/change/?_to_field=id HTTP/1.1" 200 16022
+INFO 2024-07-17 23:26:15,673 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:26:18,644 basehttp "GET /admin/stocks/variant/16/change/ HTTP/1.1" 200 11106
+INFO 2024-07-17 23:26:19,995 basehttp "GET /admin/stocks/variant/ HTTP/1.1" 200 11456
+INFO 2024-07-17 23:26:22,364 basehttp "GET /admin/stocks/variant/15/change/ HTTP/1.1" 200 11102
+INFO 2024-07-17 23:26:22,388 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:26:23,939 basehttp "GET /admin/stocks/products/a4523df8-956f-4771-8f2f-8f6a263f3a40/change/?_to_field=id HTTP/1.1" 200 16022
+INFO 2024-07-17 23:26:23,958 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:26:27,137 basehttp "GET /admin/stocks/variant/15/change/ HTTP/1.1" 200 11102
+INFO 2024-07-17 23:26:28,202 basehttp "GET /admin/stocks/variant/ HTTP/1.1" 200 11456
+INFO 2024-07-17 23:26:29,895 basehttp "GET /admin/stocks/variant/17/change/ HTTP/1.1" 200 11102
+INFO 2024-07-17 23:26:29,932 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:26:31,341 basehttp "GET /admin/stocks/products/e0729942-3115-47dd-a535-602611f09a1b/change/?_to_field=id HTTP/1.1" 200 16022
+INFO 2024-07-17 23:26:31,360 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:26:33,221 basehttp "GET /admin/stocks/variant/17/change/ HTTP/1.1" 200 11102
+INFO 2024-07-17 23:26:34,040 basehttp "GET /admin/stocks/variant/ HTTP/1.1" 200 11456
+INFO 2024-07-17 23:26:36,255 basehttp "GET /admin/stocks/variant/20/change/ HTTP/1.1" 200 11103
+INFO 2024-07-17 23:26:36,271 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:26:37,926 basehttp "GET /admin/stocks/products/3507da91-0f7c-478b-8895-c73e71a76835/change/?_to_field=id HTTP/1.1" 200 16019
+INFO 2024-07-17 23:26:37,945 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:26:39,960 basehttp "GET /admin/stocks/variant/20/change/ HTTP/1.1" 200 11103
+INFO 2024-07-17 23:26:40,986 basehttp "GET /admin/stocks/variant/ HTTP/1.1" 200 11456
+INFO 2024-07-17 23:26:45,017 basehttp "GET /admin/stocks/variant/21/change/ HTTP/1.1" 200 11099
+INFO 2024-07-17 23:26:45,038 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:26:46,817 basehttp "GET /admin/stocks/products/ae77244f-e5ac-40eb-a888-3fbfc697a114/change/?_to_field=id HTTP/1.1" 200 16028
+INFO 2024-07-17 23:26:46,853 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO 2024-07-17 23:26:49,789 basehttp "GET /admin/stocks/variant/21/change/ HTTP/1.1" 200 11099
+INFO 2024-07-17 23:26:53,794 views Product list retrieved successfully.
+INFO 2024-07-17 23:26:53,820 basehttp "GET /products/ HTTP/1.1" 200 9463
+INFO 2024-07-17 23:26:55,355 views Product list retrieved successfully.
+INFO 2024-07-17 23:26:55,385 basehttp "GET /products/?page=2 HTTP/1.1" 200 7554
+INFO 2024-07-17 23:27:01,429 views Product list retrieved successfully.
+INFO 2024-07-17 23:27:01,455 basehttp "GET /products/ HTTP/1.1" 200 9463
+INFO 2024-07-17 23:27:06,852 views Product list retrieved successfully.
+INFO 2024-07-17 23:27:06,870 basehttp "GET /products/?page=2 HTTP/1.1" 200 7554
+INFO 2024-07-17 23:27:16,681 views Product list retrieved successfully.
+INFO 2024-07-17 23:27:16,709 basehttp "GET /products/ HTTP/1.1" 200 9463
+WARNING 2024-07-17 23:31:01,858 views Invalid product data.
+WARNING 2024-07-17 23:31:01,858 log Bad Request: /products/create/
+WARNING 2024-07-17 23:31:01,858 basehttp "POST /products/create/ HTTP/1.1" 400 92
+WARNING 2024-07-17 23:31:28,296 log Bad Request: /products/create/
+WARNING 2024-07-17 23:31:28,304 basehttp "POST /products/create/ HTTP/1.1" 400 77
+WARNING 2024-07-17 23:31:41,970 views Invalid product data.
+WARNING 2024-07-17 23:31:41,970 log Bad Request: /products/create/
+WARNING 2024-07-17 23:31:41,970 basehttp "POST /products/create/ HTTP/1.1" 400 92
+WARNING 2024-07-17 23:32:04,917 views Invalid product data.
+WARNING 2024-07-17 23:32:04,917 log Bad Request: /products/create/
+WARNING 2024-07-17 23:32:04,917 basehttp "POST /products/create/ HTTP/1.1" 400 92
+WARNING 2024-07-18 00:13:09,181 views Invalid product data.
+WARNING 2024-07-18 00:13:09,183 log Bad Request: /products/create/
+WARNING 2024-07-18 00:13:09,190 basehttp "POST /products/create/ HTTP/1.1" 400 92
+INFO 2024-07-18 00:19:07,081 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:19:10,741 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\models.py changed, reloading.
+INFO 2024-07-18 00:19:11,827 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:19:22,887 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\models.py changed, reloading.
+INFO 2024-07-18 00:19:24,056 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:19:25,419 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\models.py changed, reloading.
+INFO 2024-07-18 00:19:26,358 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:20:48,313 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\models.py changed, reloading.
+INFO 2024-07-18 00:20:49,598 autoreload Watching for file changes with StatReloader
+WARNING 2024-07-18 00:25:41,462 views Invalid product data.
+WARNING 2024-07-18 00:25:41,470 log Bad Request: /products/create/
+WARNING 2024-07-18 00:25:41,470 basehttp "POST /products/create/ HTTP/1.1" 400 92
+INFO 2024-07-18 00:27:14,637 views Product created successfully.
+INFO 2024-07-18 00:27:14,653 basehttp "POST /products/create/ HTTP/1.1" 201 300
+INFO 2024-07-18 00:28:12,115 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:28:14,146 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:28:15,643 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:28:16,657 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:28:19,258 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:28:20,074 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:28:28,832 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:28:29,941 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:28:31,311 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:28:32,112 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:28:33,507 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:28:34,533 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:28:36,006 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:28:37,050 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:28:38,474 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:28:39,324 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:28:41,749 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:28:42,578 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:28:46,039 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:28:46,747 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:28:52,383 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:28:53,269 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:28:54,781 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:28:55,598 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:28:57,066 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:28:57,839 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:28:59,187 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:29:00,110 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:29:02,482 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:29:03,413 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:29:04,786 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:29:05,704 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:29:09,157 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:29:10,066 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:29:11,495 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:29:12,243 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:29:13,573 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:29:14,455 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:29:16,996 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:29:17,791 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:29:19,122 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:29:20,039 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:29:28,779 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:29:29,722 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:29:31,130 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:29:32,074 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:29:33,589 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:29:34,444 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:29:35,852 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:29:36,875 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:29:38,318 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:29:39,057 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:30:39,702 views Product created successfully.
+ERROR 2024-07-18 00:30:40,474 log Internal Server Error: /products/create/
+Traceback (most recent call last):
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py", line 22, in post
+    return Response({"status":"1","message":"Product added successfully"},serializer.data, status=status.HTTP_201_CREATED)
+TypeError: __init__() got multiple values for argument 'status'
+ERROR 2024-07-18 00:30:40,490 basehttp "POST /products/create/ HTTP/1.1" 500 98732
+INFO 2024-07-18 00:31:00,286 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:31:01,708 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:31:03,126 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:31:03,985 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:31:06,462 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:31:07,661 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:31:18,470 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:31:19,531 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:31:21,957 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:31:22,871 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:31:25,323 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:31:26,235 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:31:27,521 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:31:28,378 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:31:33,932 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:31:34,729 autoreload Watching for file changes with StatReloader
+WARNING 2024-07-18 00:31:50,696 views Invalid product data.
+WARNING 2024-07-18 00:31:50,696 log Bad Request: /products/create/
+WARNING 2024-07-18 00:31:50,696 basehttp "POST /products/create/ HTTP/1.1" 400 125
+INFO 2024-07-18 00:32:21,136 views Product created successfully.
+ERROR 2024-07-18 00:32:21,265 log Internal Server Error: /products/create/
+Traceback (most recent call last):
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py", line 22, in post
+    return Response({{"status":"1","message":"Product added successfully"},{serializer.data}}, status=status.HTTP_201_CREATED)
+TypeError: unhashable type: 'ReturnDict'
+ERROR 2024-07-18 00:32:21,297 basehttp "POST /products/create/ HTTP/1.1" 500 98603
+INFO 2024-07-18 00:32:53,637 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:32:54,474 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:32:55,802 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:32:56,619 autoreload Watching for file changes with StatReloader
+WARNING 2024-07-18 00:33:01,418 views Invalid product data.
+WARNING 2024-07-18 00:33:01,418 log Bad Request: /products/create/
+WARNING 2024-07-18 00:33:01,418 basehttp "POST /products/create/ HTTP/1.1" 400 125
+INFO 2024-07-18 00:33:17,574 views Product created successfully.
+ERROR 2024-07-18 00:33:17,680 log Internal Server Error: /products/create/
+Traceback (most recent call last):
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS-venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py", line 22, in post
+    return Response({{"status":"1","message":"Product added successfully"},serializer.data}, status=status.HTTP_201_CREATED)
+TypeError: unhashable type: 'dict'
+ERROR 2024-07-18 00:33:17,697 basehttp "POST /products/create/ HTTP/1.1" 500 98564
+INFO 2024-07-18 00:33:54,356 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:33:55,314 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:33:56,698 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:33:57,438 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:34:10,416 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:34:11,296 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:34:12,716 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:34:13,551 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:34:25,329 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:34:26,152 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:34:27,494 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:34:28,417 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:34:34,054 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:34:34,969 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:34:38,507 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:34:39,333 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:34:40,654 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:34:41,491 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:34:42,905 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:34:43,833 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:34:45,241 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:34:45,948 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:34:58,975 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:34:59,750 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:35:02,130 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:35:02,933 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:35:04,351 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:35:05,233 autoreload Watching for file changes with StatReloader
+INFO 2024-07-18 00:35:38,244 autoreload C:\Users\syamp\Desktop\Inventory-Mangement-Application\IMS\stocks\views.py changed, reloading.
+INFO 2024-07-18 00:35:39,032 autoreload Watching for file changes with StatReloader
+WARNING 2024-07-18 00:35:45,645 views Invalid product data.
+WARNING 2024-07-18 00:35:45,645 log Bad Request: /products/create/
+WARNING 2024-07-18 00:35:45,645 basehttp "POST /products/create/ HTTP/1.1" 400 125
+INFO 2024-07-18 00:36:01,802 views Product created successfully.
+INFO 2024-07-18 00:36:01,810 basehttp "POST /products/create/ HTTP/1.1" 201 362
