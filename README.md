@@ -1,4 +1,5 @@
 Online Store Inventory Management System - Api
+
 Welcome to the Online Store Inventory Management System, a robust solution for managing products, variants, and stock levels in an online store. Built using Django and Django REST Framework, this project provides a set of RESTful APIs to create, list, and manage products, offering a seamless experience for integrating with frontend applications.
 
 Features
@@ -17,29 +18,19 @@ git clone https://github.com/syam2400/IMS-onlinestore-django-restframework.git
 cd IMS-onlinestore-django-restframework
 Create a virtual environment:
 
-bash
-Copy code
 python3 -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 Install dependencies:
 
-bash
-Copy code
 pip install -r requirements.txt
 Run database migrations:
 
-bash
-Copy code
 python manage.py migrate
 Create a superuser:
 
-bash
-Copy code
 python manage.py createsuperuser
 Start the development server:
 
-bash
-Copy code
 python manage.py runserver
 Access the application at http://127.0.0.1:8000/admin to explore the Django admin panel.
 
